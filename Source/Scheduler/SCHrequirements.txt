@@ -1,0 +1,3 @@
+schedule
+kafka-python
+pymongo

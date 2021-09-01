@@ -1,0 +1,19 @@
+#Service LifeCycle
+configparser
+kafka-python
+pymongo
+#bson
+schedule
+
+#Node.py
+flask
+
+#DockerHelper
+docker
+
+#Server Lifecycle
+boto3
+paramiko
+numpy
+
+

@@ -1,0 +1,51 @@
+{   
+    "sensor1":{
+        "sensorType":"gps",        
+        "output_type":"int",
+        "data_size":"4",
+        "data_rate":"None" 
+    },
+
+    "sensor2":{        
+        "sensorType":"biometric",
+        "output_type":"int",
+        "data_size":"4",
+        "data_rate":"None"
+    },
+
+    "sensor3":{
+        "sensorType":"light",
+        "output_type":"string",
+        "data_size":"5",
+        "data_rate":"None"
+    },
+
+    "sensor4":{
+        "sensorType":"temperature",
+        "output_type":"int",
+        "data_size":"5",
+        "data_rate":"None"
+    },
+
+    "sensor5":{
+        "sensorType":"buzzer",
+        "output_type":"boolean",
+        "data_size":"None",
+        "data_rate":"None"
+    },
+
+    "sensor6":{
+        "sensorType":"light_con",
+        "output_type":"boolean",
+        "data_size":"None",
+        "data_rate":"None"
+    },
+
+    "sensor7":{
+        "sensorType":"ac",
+        "output_type":"boolean",
+        "data_size":"None",
+        "data_rate":"None"
+    }
+   
+}

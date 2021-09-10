@@ -1,0 +1,222 @@
+{
+    "sensor1": {
+        "sensorType": "gps", 
+        "purpose":"data-generator",
+        "locationId":"bus1",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4001"
+    }, 
+    "sensor2": {
+        "sensorType": "gps", 
+        "purpose":"data-generator",
+        "locationId":"bus2",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4002"
+    }, 
+    "sensor3": {
+        "sensorType": "gps", 
+        "purpose":"data-generator",
+        "locationId":"barricade1",
+        "installedin":"barricade",
+        "sensor_ip": "127.0.0.30:4003"
+    }, 
+    "sensor4": {
+        "sensorType": "gps", 
+        "purpose":"data-generator",
+        "locationId":"barricade2",
+        "installedin":"barricade",
+        "sensor_ip": "127.0.0.30:4004"
+    },
+    "sensor5": {
+        "sensorType": "gps", 
+        "purpose":"data-generator",
+        "locationId":"iiith",
+        "installedin":"iiith",
+        "sensor_ip": "127.0.0.30:4005"
+    },
+    "sensor6": {
+        "sensorType": "biometric", 
+        "purpose":"data-generator",
+        "locationId":"bus1",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4006"
+    }, 
+    "sensor7": {
+        "sensorType": "biometric", 
+        "purpose":"data-generator",
+        "locationId":"bus2",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4007"
+    }, 
+    "sensor8": {
+        "sensorType": "temperature", 
+        "purpose":"data-generator",
+        "locationId":"bus1",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4008"
+    }, 
+    "sensor9": {
+        "sensorType": "temperature", 
+        "purpose":"data-generator",
+        "locationId":"bus2",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4009"
+    }, 
+    "sensor10": {
+        "sensorType": "light", 
+        "purpose":"data-generator",
+        "locationId":"bus1",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4010"
+    }, 
+    "sensor11": {
+        "sensorType": "light", 
+        "purpose":"data-generator",
+        "locationId":"bus2",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4011"
+    }, 
+   
+    "sensor12": { 
+        "sensorType": "ac", 
+        "purpose":"controller",
+        "locationId":"bus1",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.27:4012"
+    },
+    "sensor13": { 
+        "sensorType": "ac", 
+        "purpose":"controller",
+        "locationId":"bus2",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.27:4013"
+    },
+    "sensor14": { 
+        "sensorType": "light_con", 
+        "purpose":"controller",
+        "locationId":"bus1",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.27:8081"
+    },
+    "sensor15": { 
+        "sensorType": "light_con", 
+        "purpose":"controller",
+        "locationId":"bus2",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.27:4014"
+    },
+    "sensor16": { 
+        "sensorType": "buzzer", 
+        "purpose":"controller",
+        "locationId":"bus1",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.27:4015"
+    },
+    "sensor17": { 
+        "sensorType": "buzzer", 
+        "purpose":"controller",
+        "locationId":"bus2",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.27:4016"
+    },
+    "sensor18": {
+        "sensorType": "gps", 
+        "purpose":"data-generator",
+        "locationId":"bus3",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4017"
+    }, 
+    "sensor19": {
+        "sensorType": "gps", 
+        "purpose":"data-generator",
+        "locationId":"bus4",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4018"
+    },
+    "sensor20": { 
+        "sensorType": "buzzer", 
+        "purpose":"controller",
+        "locationId":"bus3",
+        "instaledin":"bus",
+        "sensor_ip": "127.0.0.27:4019"
+    },
+    "sensor21": { 
+        "sensorType": "buzzer", 
+        "purpose":"controller",
+        "locationId":"bus4",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.27:4020"
+    },
+    "sensor22": {
+        "sensorType": "biometric", 
+        "purpose":"data-generator",
+        "locationId":"bus3",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4021"
+    }, 
+    "sensor23": {
+        "sensorType": "biometric", 
+        "purpose":"data-generator",
+        "locationId":"bus4",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4022"
+    },
+    "sensor24": {
+        "sensorType": "temperature", 
+        "purpose":"data-generator",
+        "locationId":"bus3",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4023"
+    }, 
+    "sensor25": {
+        "sensorType": "temperature", 
+        "purpose":"data-generator",
+        "locationId":"bus4",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4024"
+    }, 
+    "sensor26": {
+        "sensorType": "light", 
+        "purpose":"data-generator",
+        "locationId":"bus3",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4025"
+    }, 
+    "sensor27": {
+        "sensorType": "light", 
+        "purpose":"data-generator",
+        "locationId":"bus4",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.30:4026"
+    }, 
+   
+    "sensor28": { 
+        "sensorType": "ac", 
+        "purpose":"controller",
+        "locationId":"bus3",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.27:4027"
+    },
+    "sensor29": { 
+        "sensorType": "ac", 
+        "purpose":"controller",
+        "locationId":"bus4",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.27:4028"
+    },
+    "sensor30": { 
+        "sensorType": "light_con", 
+        "purpose":"controller",
+        "locationId":"bus3",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.27:4029"
+    },
+    "sensor31": { 
+        "sensorType": "light_con", 
+        "purpose":"controller",
+        "locationId":"bus4",
+        "installedin":"bus",
+        "sensor_ip": "127.0.0.27:4030"
+    }
+
+}

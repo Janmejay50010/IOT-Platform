@@ -1,0 +1,96 @@
+{
+    "sensor1": {
+        "sensorType": "camera", 
+        "purpose":"data-generator",
+        "location": {
+            "lat": "None", 
+            "longitude": "None"
+        }, 
+        "locationId": "Sector2", 
+        "address": "None", 
+        "sensor_ip": "127.0.0.30:8081"
+    }, 
+
+    "sensor2": {
+        "sensorType": "air", 
+        "purpose":"data-generator",
+        "location": {
+            "lat": "None", 
+            "longitude": "None"
+        }, 
+        "locationId": "Sector1", 
+        "address": "None",  
+        "sensor_ip": "127.0.0.24:8082"
+    }, 
+
+    "sensor3": { 
+        "sensorType": "audio", 
+        "purpose":"data-generator",
+        "location": {
+            "lat": "None", 
+            "longitude": "None"
+        }, 
+        "locationId": "Sector1", 
+        "address": "None", 
+        "sensor_ip": "127.0.0.25:8081"
+    },
+    "sensor4": { 
+        "sensorType": "signal", 
+        "purpose":"controller",
+        "location": {
+            "lat": "None", 
+            "longitude": "None"
+        }, 
+        "locationId": "Sector2", 
+        "address": "None", 
+        "sensor_ip": "127.0.0.29:8081"
+    },
+    "sensor5": {
+        "sensorType": "camera", 
+        "purpose":"data-generator",
+        "location": {
+            "lat": "None", 
+            "longitude": "None"
+        }, 
+        "locationId": "Sector1", 
+        "address": "None", 
+        "sensor_ip": "127.0.0.30:8080"
+    }, 
+
+    "sensor6": {
+        "sensorType": "air", 
+        "purpose":"data-generator",
+        "location": {
+            "lat": "None", 
+            "longitude": "None"
+        }, 
+        "locationId": "Sector2", 
+        "address": "None",  
+        "sensor_ip": "127.0.0.24:8081"
+    }, 
+
+    "sensor7": { 
+        "sensorType": "audio", 
+        "purpose":"data-generator",
+        "location": {
+            "lat": "None", 
+            "longitude": "None"
+        }, 
+        "locationId": "Sector2", 
+        "address": "None", 
+        "sensor_ip": "127.0.0.25:8080"
+    },
+    "sensor8": { 
+        "sensorType": "signal", 
+        "purpose":"controller",
+        "location": {
+            "lat": "None", 
+            "longitude": "None"
+        }, 
+        "locationId": "Sector1", 
+        "address": "None", 
+        "sensor_ip": "127.0.0.29:8082"
+    }
+
+
+}

@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+    <head>
+        <title>{{app_name}}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+        
+        <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script> -->
+        
+        <!-- <link href={{url_for('static',filename="./style.css")}} rel="stylesheet"> -->
+        <style>
+            .algo_buttons{
+                background-color: crimson;
+                color: rgb(235, 215, 215);
+            }
+            
+            .schedule_form *{
+                margin-top: 2%;
+                
+            }
+            .main-content{
+                margin-left: 2%;
+                justify-content: center;
+                display: grid;
+                justify-items: center;
+            }
+            .card{
+                margin: 5px;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">Platform</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+                <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="/myapps">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/signout">Signout</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="main-content">
+            <h1>Algorithms</h1>
+            <br>
+            <div style="display: flex;flex-flow: wrap;justify-content: center;">
+                {%block content%}
+                    {% for app in apps %}
+                    <div class="card">
+                        <div class="card-body algo-cards text-center">
+                            <h5 class="card-title">{{app["AlgorithmName"]}}</h5>
+                            
+                            <button class="algo_buttons" id={{app["AlgorithmName"]+"button"}} data-toggle="modal" data-target={{"#"+app["AlgorithmName"]+"modal"}}>Schedule/Run Now</button>
+                            
+                            <div id={{app["AlgorithmName"]+"modal"}} class="modal fade" role="dialog">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h4 class="modal-title">Schedule/Run Algorithm</h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            <form method="POST" class="schedule_form" id={{app["AlgorithmName"]+"form"}} >
+                                                <label for="base_algo">Base Algorithm</label>
+                                                <input type="text" name="base_algo" value={{ app["AlgorithmName"] }} readonly><br>
+                                                <label for="algo_id">Algorithm Name</label>
+                                                <input type="text" name="algo_id" class="algo_id" required><br>
+                                                <label for="run_type">Run Type</label>
+                                                <select name="run_type" class="run_type">
+                                                    <option value="now">Now</option>
+                                                    <option value="scheduled" selected>Scheduled</option>
+                                                </select><br>
+                                                <label for="schedule_type">Schedule Type</label>
+                                                <select name="schedule_type" class="schedule_type">
+                                                    <option value="once">Once</option>
+                                                    <option value="scheduled">Regular</option>
+                                                    <option value="interval" selected>Interval</option>
+                                                </select><br>
+                                                <label for="start_time">Start Time</label>
+                                                <input type="time" name="start_time" class="start_time"><br>
+                                                <label for="end_time">End Time</label>
+                                                <input type="time" name="end_time" class="end_time"><br>
+                                                <label for="interval">Interval (in min)</label>
+                                                <input type="number" name="interval" class="interval" min="0"><br>
+                                                Sensors:<br>
+                                                {% for i in range(app["sensors"] | length) %}
+                                                    {% if app["sensor_num"][i]=="all" %}
+                                                        <label for={{ app["sensors"][i] + j|string}}>{{ app["sensors"][i] }}</label>
+                                                        <input type="text" name={{ app["sensors"][i] + j|string}} readonly value="all">
+                                                    {% else %}
+                                                        {% for j in range(app["sensor_num"][i]) %}
+                                                            <label for={{ app["sensors"][i] + j|string}}>{{ app["sensors"][i] }}</label>
+                                                            <select name={{ app["sensors"][i] + j|string}} required>
+                                                                {% for sen in all_sensors[app["sensors"][i]] %}
+                                                                    <option value={{sen}}>{{sen}}</option>
+                                                                {% endfor %}
+                                                            </select>
+                                                        {% endfor %}
+                                                    {% endif %}
+                                                    <br>
+                                                {% endfor %}
+                                                {% if app['action']|length >0 %}
+                                                    Actions:<br>
+                                                    {% for action in app['action'] %}
+                                                        {% if action=="email"%}
+                                                            <label for={{action}}>{{action}}</label>
+                                                            <input type="email" name={{action}} required placeholder="Enter email"><br>
+                                                        {% elif action=="sms" %}
+                                                            <label for={{action}}>{{action}}</label>
+                                                            <input type="tel" name={{action}} required placeholder="Enter mobile number"><br>
+                                                        {% endif %}
+                                                    {% endfor %}
+                                                    {% for action in app['action'] %}
+                                                        {% if action=="callback"%}
+                                                            <div id={{app["AlgorithmName"]+"callback"}}>
+                                                                <label for={{action}}>{{action}} algorithm</label>
+                                                                <select class="callback" name={{action}} required>
+                                                                    {% for algo in apps%}
+                                                                    {% if algo["AlgorithmName"]!=app["AlgorithmName"]%}
+                                                                        <option value={{algo["AlgorithmName"]}}>{{algo["AlgorithmName"]}}</option>
+                                                                    {% endif %}
+                                                                    {% endfor %}
+                                                                </select>
+                                                                <div class="callback_attr">
+
+                                                                </div>
+                                                                <!-- dynamically add or remove field using jquery -->
+                                                            </div>
+                                                        {% endif %}
+                                                    {% endfor %}
+                                                {% endif %}
+                                                <input class="submit" type="submit" value="Submit"/><br>
+                                            </form>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {%endfor%}
+                {% endblock content %}
+            </div>
+        </div>
+        <!-- script to check if algo name exists for given user -->
+        <script>
+            var user_cur_algo={{algos | safe}};
+            
+            $(".name_error").fadeOut(1);
+            $(".algo_id").keyup(function(){
+            if (user_cur_algo.includes($(this).val())){
+                $(this).css("background-color","red");
+                var parent=$(this).parent();
+                parent.find(".submit").prop("disabled",true);
+                $(this).popover({
+                    content:"Algorithm Name already used by you"
+                });
+                $(this).popover('show');
+            }else{
+                $(this).css("background-color","white");
+                var parent=$(this).parent();
+                parent.find(".submit").prop("disabled",false);
+                $(this).popover({
+                    content:"Algorithm Name already used by you"
+                });
+                $(this).popover('hide');
+            }
+            });
+            
+            $('.modal').on('hide.bs.modal', function() {
+                $(".popover:visible").popover( "hide" );
+            });
+        </script>
+        <!-- scripts to handle form field visibility -->
+        <script>
+            $(".callback").prop("selectedIndex", -1);
+
+            $(".callback").change(function(){
+                var parent=$(this).parent();
+                var attr_child=parent.find(".callback_attr");
+                attr_child.empty();
+                var selected_algo=$(this).val();
+                var all_algos={{ apps | safe }};
+                //console.log(all_algos);
+                var cur_algo=all_algos.filter(obj => obj.AlgorithmName==selected_algo)[0]
+                var form="";
+                cur_algo.action.forEach(function(item,index){
+                    form+='<label for="callback_'+item+'">'+item+' </label>';
+                    if (item=="email"){
+                        form+='<input type="email" name=callback_'+item+' required placeholder="Enter email"><br>';
+                    }
+                    if (item=="sms"){
+                        form+='<input type="tel" name=callback_'+item+' required placeholder="Enter number"><br>';
+                    }
+                    //console.log(item,index);
+                });
+                $(form).appendTo(attr_child);
+            });
+
+            $(".run_type").change(function(){
+                var parent=$(this).parent();
+                if ($(this).val()=="now"){
+                    parent.find('label[for=schedule_type],.schedule_type').prop("disabled",true);
+                    parent.find('label[for=start_time],.start_time').prop("disabled",true);
+                    parent.find('label[for=end_time],.end_time').prop("disabled",true);
+                }
+                if ($(this).val()=="scheduled"){
+                    parent.find('label[for=schedule_type],.schedule_type').prop("disabled",false);
+                    parent.find('label[for=start_time],.start_time').prop("disabled",false);
+                    parent.find('label[for=end_time],.end_time').prop("disabled",false);
+                }
+            });
+            
+            $(".schedule_type").change(function(){
+                var parent=$(this).parent();
+                if ($(this).val()=="interval"){
+                    parent.find('label[for=interval],.interval').prop("disabled",false);
+                }
+                else{
+                    parent.find('label[for=interval],.interval').prop("disabled",true);
+                }
+            });
+        </script>
+
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            <script>
+                var messages = {{ messages | safe }};
+                for (var i=0; i<messages.length; i++) {
+                    alert(messages[i]);
+                }
+            </script>
+        {% endif %}
+        {% endwith %}
+        
+        
+    </body>
+</html>

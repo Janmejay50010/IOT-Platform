@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+    <head>
+        <title>Algorithm : {{algo_details['AlgorithmID']}}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+        <!-- <link href={{url_for('static',filename="./style.css")}} rel="stylesheet"> -->
+        <style>
+
+
+        </style>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">Platform</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+                <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="/myapps">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/signout">Signout</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div style="text-align: -webkit-center; margin-left: 2%;">
+            {%block content2%}
+                <h3>Algorithm Name : {{algo_details['AlgorithmID']}}</h3><br>
+                <p>Base Algorithm : {{algo_details['AlgorithmName']}}</p>
+                <p>Run Type : {{algo_details['run_type']}}</p>
+                {% if algo_details['run_type']=="scheduled" %}
+                    <p>Schedule : <br>
+                        {% for i in algo_details['schedule'] %}
+                            {{i }} : {{algo_details['schedule'][i]}}<br>
+                        {% endfor %}
+                    </p>
+                {% endif %}
+                {% if 'sensor' in algo_details %}
+                    <p>Sensors used : <br>
+                        {% for i in algo_details['sensor'] %}
+                            {{i }} : {{' , '.join(algo_details['sensor'][i])}}<br>
+                        {% endfor %}
+                    </p>
+                {% endif %}
+                {% if algo_details['action'] | length == '0'%}
+                    <p>Actions : <br>
+                        {% for i in algo_details['action'] %}
+                            {{i }} : {{algo_details['action'][i]}}<br>
+                        {% endfor %}
+                    </p>
+                {% endif %}
+                {% if 'interval' not in algo_details or algo_details['interval']=='0' %}
+                    {% if algo_status=="off" %}
+                        <p>Status : OFF</p>
+                    {% else %}
+                        <div style="display: ruby;">
+                            <p>Status : ON</p>
+                            <form method="POST" id="off-form" onsubmit="return confirm('Are you sure you want to stop?')">
+                                <input type="submit" class="btn btn-danger" name="switch" value="Stop">
+                            </form>
+                            <a href={{"/algo_output/"+user+"/"+algo_details['AlgorithmID']}} target="_blank"><button type="button" class="btn btn-primary">View Output</button></a>
+                        </div>
+                    {% endif %}
+                {% endif %}
+            {% endblock content2 %}
+            </div>
+        </div>
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            <script>
+            var messages = {{ messages | safe }};
+            for (var i=0; i<messages.length; i++) {
+                alert(messages[i]);
+            }
+            </script>
+        {% endif %}
+        {% endwith %}
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+    </body>
+</html>

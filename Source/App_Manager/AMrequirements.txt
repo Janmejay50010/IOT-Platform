@@ -1,0 +1,5 @@
+jsonschema
+flask
+pymongo
+kafka-python
+dnspython

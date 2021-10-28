@@ -1,0 +1,2593 @@
+<generator object senmanager_actmanager at 0x7f078a250dd0>
+<generator object senmanager_actmanager at 0x7f4a60302f20>
+<generator object senmanager_actmanager at 0x7f8467fefac0>
+{'topic': 'algo_46097'}
+{'topic': 'algo_46097'}
+{'installedin': 'bus', 'sensorType': 'light'}
+algo_46097_rep
+line 44 :  {'installedin': 'bus', 'sensorType': 'light'}
+data dict {'installedin': 'bus', 'sensorType': 'light'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b6'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4010', 'topic': 'lightbus1id9'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b7'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4011', 'topic': 'lightbus2id10'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3c6'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4025', 'topic': 'lightbus3id25'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3c7'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4026', 'topic': 'lightbus4id26'}
+['lightbus1id9', 'lightbus2id10', 'lightbus3id25', 'lightbus4id26']
+sending topic ['lightbus1id9', 'lightbus2id10', 'lightbus3id25', 'lightbus4id26']
+{'installedin': 'bus', 'sensorType': 'light'}
+algo_46097_rep
+line 44 :  {'installedin': 'bus', 'sensorType': 'light'}
+data dict {'installedin': 'bus', 'sensorType': 'light'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b6'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4010', 'topic': 'lightbus1id9'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b7'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4011', 'topic': 'lightbus2id10'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3c6'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4025', 'topic': 'lightbus3id25'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3c7'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4026', 'topic': 'lightbus4id26'}
+['lightbus1id9', 'lightbus2id10', 'lightbus3id25', 'lightbus4id26']
+sending topic ['lightbus1id9', 'lightbus2id10', 'lightbus3id25', 'lightbus4id26']
+{'installedin': 'bus', 'sensorType': 'temperature'}
+algo_46097_rep
+line 44 :  {'installedin': 'bus', 'sensorType': 'temperature'}
+data dict {'installedin': 'bus', 'sensorType': 'temperature'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b4'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4008', 'topic': 'temperaturebus1id7'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b5'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4009', 'topic': 'temperaturebus2id8'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3c4'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4023', 'topic': 'temperaturebus3id23'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3c5'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4024', 'topic': 'temperaturebus4id24'}
+['temperaturebus1id7', 'temperaturebus2id8', 'temperaturebus3id23', 'temperaturebus4id24']
+sending topic ['temperaturebus1id7', 'temperaturebus2id8', 'temperaturebus3id23', 'temperaturebus4id24']
+{'installedin': 'bus', 'sensorType': 'temperature'}
+algo_46097_rep
+line 44 :  {'installedin': 'bus', 'sensorType': 'temperature'}
+data dict {'installedin': 'bus', 'sensorType': 'temperature'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b4'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4008', 'topic': 'temperaturebus1id7'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b5'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4009', 'topic': 'temperaturebus2id8'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3c4'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4023', 'topic': 'temperaturebus3id23'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3c5'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4024', 'topic': 'temperaturebus4id24'}
+['temperaturebus1id7', 'temperaturebus2id8', 'temperaturebus3id23', 'temperaturebus4id24']
+sending topic ['temperaturebus1id7', 'temperaturebus2id8', 'temperaturebus3id23', 'temperaturebus4id24']
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+{'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3b8'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+l recefived {'_id': ObjectId('60968e380ab2ea9691cfe3ba'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+<generator object senmanager_actmanager at 0x7f721059b4a0>
+<generator object senmanager_actmanager at 0x7f83cfeb4820>
+<generator object senmanager_actmanager at 0x7fad820a44a0>
+<generator object senmanager_actmanager at 0x7f5c12f7c040>
+<generator object senmanager_actmanager at 0x7f2688b97200>
+<generator object senmanager_actmanager at 0x7f218f053270>
+{'topic': 'algo_51913'}
+{'sensorType': 'light', 'locationId': 'bus1'}
+algo_51913_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus1'}
+data dict {'sensorType': 'light', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969263da2812793f23cb2e'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4010', 'topic': 'lightbus1id9'}
+['lightbus1id9']
+sending topic ['lightbus1id9']
+{'sensorType': 'temperature', 'locationId': 'bus1'}
+algo_51913_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus1'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969263da2812793f23cb2c'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4008', 'topic': 'temperaturebus1id7'}
+['temperaturebus1id7']
+sending topic ['temperaturebus1id7']
+<generator object senmanager_actmanager at 0x7f2c3a0b5120>
+{'topic': 'algo_43866'}
+{'topic': 'algo_43866'}
+{'sensorType': 'light', 'locationId': 'bus1'}
+algo_43866_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus1'}
+data dict {'sensorType': 'light', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2f'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4010', 'topic': 'lightbus1id9'}
+['lightbus1id9']
+sending topic ['lightbus1id9']
+{'sensorType': 'light', 'locationId': 'bus1'}
+algo_43866_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus1'}
+data dict {'sensorType': 'light', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2f'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4010', 'topic': 'lightbus1id9'}
+['lightbus1id9']
+sending topic ['lightbus1id9']
+{'sensorType': 'temperature', 'locationId': 'bus1'}
+algo_43866_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus1'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2d'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4008', 'topic': 'temperaturebus1id7'}
+['temperaturebus1id7']
+sending topic ['temperaturebus1id7']
+{'sensorType': 'temperature', 'locationId': 'bus1'}
+algo_43866_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus1'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2d'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4008', 'topic': 'temperaturebus1id7'}
+['temperaturebus1id7']
+sending topic ['temperaturebus1id7']
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d33'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d33'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d33'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+l recefived {'_id': ObjectId('60969289e519fdee024f6d33'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+127.0.0.27:4012
+{'topic': 'algo_93298'}
+{'topic': 'algo_93298'}
+{'sensorType': 'light', 'locationId': 'bus1'}
+algo_93298_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus1'}
+data dict {'sensorType': 'light', 'locationId': 'bus1'}
+req data
+{'sensorType': 'light', 'locationId': 'bus1'}
+algo_93298_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus1'}
+data dict {'sensorType': 'light', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2f'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4010', 'topic': 'lightbus1id9'}
+['lightbus1id9']
+sending topic ['lightbus1id9']
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2f'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4010', 'topic': 'lightbus1id9'}
+['lightbus1id9']
+sending topic ['lightbus1id9']
+{'sensorType': 'temperature', 'locationId': 'bus1'}
+algo_93298_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus1'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus1'}
+req data
+{'sensorType': 'temperature', 'locationId': 'bus1'}
+algo_93298_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus1'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2d'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4008', 'topic': 'temperaturebus1id7'}
+['temperaturebus1id7']
+sending topic ['temperaturebus1id7']
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2d'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4008', 'topic': 'temperaturebus1id7'}
+['temperaturebus1id7']
+sending topic ['temperaturebus1id7']
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d33'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+l recefived {'_id': ObjectId('60969289e519fdee024f6d33'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d33'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+l recefived {'_id': ObjectId('60969289e519fdee024f6d33'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+{'topic': 'algo_91986'}
+{'topic': 'algo_91986'}
+{'sensorType': 'light', 'locationId': 'bus1'}
+algo_91986_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus1'}
+data dict {'sensorType': 'light', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2f'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4010', 'topic': 'lightbus1id9'}
+['lightbus1id9']
+sending topic ['lightbus1id9']
+{'sensorType': 'light', 'locationId': 'bus1'}
+algo_91986_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus1'}
+data dict {'sensorType': 'light', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2f'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4010', 'topic': 'lightbus1id9'}
+['lightbus1id9']
+sending topic ['lightbus1id9']
+{'sensorType': 'temperature', 'locationId': 'bus1'}
+algo_91986_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus1'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2d'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4008', 'topic': 'temperaturebus1id7'}
+['temperaturebus1id7']
+sending topic ['temperaturebus1id7']
+{'sensorType': 'temperature', 'locationId': 'bus1'}
+algo_91986_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus1'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2d'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4008', 'topic': 'temperaturebus1id7'}
+['temperaturebus1id7']
+sending topic ['temperaturebus1id7']
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+127.0.0.27:4012
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d33'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+l recefived {'_id': ObjectId('60969289e519fdee024f6d33'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d33'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d33'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:8081', 'topic': 'light_conbus1id13'}
+127.0.0.27:8081
+127.0.0.27:8081
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+data dict {'sensorType': 'ac', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+l recefived {'_id': ObjectId('60969289e519fdee024f6d31'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4012', 'topic': 'acbus1id11'}
+127.0.0.27:4012
+{'topic': 'algo_47157'}
+{'topic': 'algo_47157'}
+{'sensorType': 'light', 'locationId': 'bus2'}
+algo_47157_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus2'}
+data dict {'sensorType': 'light', 'locationId': 'bus2'}
+req data
+{'sensorType': 'light', 'locationId': 'bus2'}
+algo_47157_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus2'}
+data dict {'sensorType': 'light', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d30'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4011', 'topic': 'lightbus2id10'}
+['lightbus2id10']
+sending topic ['lightbus2id10']
+l recefived {'_id': ObjectId('60969289e519fdee024f6d30'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4011', 'topic': 'lightbus2id10'}
+['lightbus2id10']
+sending topic ['lightbus2id10']
+{'sensorType': 'temperature', 'locationId': 'bus2'}
+algo_47157_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus2'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2e'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4009', 'topic': 'temperaturebus2id8'}
+['temperaturebus2id8']
+sending topic ['temperaturebus2id8']
+{'sensorType': 'temperature', 'locationId': 'bus2'}
+algo_47157_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus2'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2e'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4009', 'topic': 'temperaturebus2id8'}
+['temperaturebus2id8']
+sending topic ['temperaturebus2id8']
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict 127.0.0.27:4013
+{'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+127.0.0.27:4014
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+127.0.0.27:4013
+{'topic': 'algo_57504'}
+{'sensorType': 'light', 'locationId': 'bus2'}
+algo_57504_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus2'}
+data dict {'sensorType': 'light', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d30'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4011', 'topic': 'lightbus2id10'}
+['lightbus2id10']
+sending topic ['lightbus2id10']
+{'sensorType': 'temperature', 'locationId': 'bus2'}
+algo_57504_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus2'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d2e'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4009', 'topic': 'temperaturebus2id8'}
+['temperaturebus2id8']
+sending topic ['temperaturebus2id8']
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+data dict {'sensorType': 'light_con', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d34'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4014', 'topic': 'light_conbus2id14'}
+127.0.0.27:4014
+data dict {'sensorType': 'ac', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d32'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4013', 'topic': 'acbus2id12'}
+127.0.0.27:4013
+{'topic': 'algo_38799'}
+{'sensorType': 'light', 'locationId': 'bus3'}
+algo_38799_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus3'}
+data dict {'sensorType': 'light', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d3f'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4025', 'topic': 'lightbus3id25'}
+['lightbus3id25']
+sending topic ['lightbus3id25']
+{'sensorType': 'temperature', 'locationId': 'bus3'}
+algo_38799_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus3'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d3d'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4023', 'topic': 'temperaturebus3id23'}
+['temperaturebus3id23']
+sending topic ['temperaturebus3id23']
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d43'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d43'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d43'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d43'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d43'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d43'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d41'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+{'topic': 'algo_98223'}
+{'sensorType': 'gps', 'installedin': 'bus'}
+algo_98223_rep
+line 44 :  {'sensorType': 'gps', 'installedin': 'bus'}
+data dict {'sensorType': 'gps', 'installedin': 'bus'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d26'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4001', 'topic': 'gpsbus1id0'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d27'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4002', 'topic': 'gpsbus2id1'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d37'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4017', 'topic': 'gpsbus3id17'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d38'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4018', 'topic': 'gpsbus4id18'}
+['gpsbus1id0', 'gpsbus2id1', 'gpsbus3id17', 'gpsbus4id18']
+sending topic ['gpsbus1id0', 'gpsbus2id1', 'gpsbus3id17', 'gpsbus4id18']
+data dict {'sensorType': 'buzzer', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d36'), 'sensorType': 'buzzer', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4016', 'topic': 'buzzerbus2id16'}
+127.0.0.27:4016
+data dict {'sensorType': 'buzzer', 'locationId': 'bus4'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d3a'), 'sensorType': 'buzzer', 'purpose': 'controller', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4020', 'topic': 'buzzerbus4id20'}
+127.0.0.27:4020
+data dict {'sensorType': 'buzzer', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d39'), 'sensorType': 'buzzer', 'purpose': 'controller', 'locationId': 'bus3', 'instaledin': 'bus', 'sensor_ip': '127.0.0.27:4019', 'topic': 'buzzerbus3id19'}
+127.0.0.27:4019
+data dict {'sensorType': 'buzzer', 'locationId': 'bus4'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d3a'), 'sensorType': 'buzzer', 'purpose': 'controller', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4020', 'topic': 'buzzerbus4id20'}
+127.0.0.27:4020
+data dict {'sensorType': 'buzzer', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d39'), 'sensorType': 'buzzer', 'purpose': 'controller', 'locationId': 'bus3', 'instaledin': 'bus', 'sensor_ip': '127.0.0.27:4019', 'topic': 'buzzerbus3id19'}
+127.0.0.27:4019
+{'topic': 'algo_67418'}
+{'sensorType': 'gps', 'installedin': 'bus'}
+algo_67418_rep
+line 44 :  {'sensorType': 'gps', 'installedin': 'bus'}
+data dict {'sensorType': 'gps', 'installedin': 'bus'}
+req data
+l recefived {'_id': ObjectId('60969289e519fdee024f6d26'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4001', 'topic': 'gpsbus1id0'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d27'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4002', 'topic': 'gpsbus2id1'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d37'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4017', 'topic': 'gpsbus3id17'}
+l recefived {'_id': ObjectId('60969289e519fdee024f6d38'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4018', 'topic': 'gpsbus4id18'}
+['gpsbus1id0', 'gpsbus2id1', 'gpsbus3id17', 'gpsbus4id18']
+sending topic ['gpsbus1id0', 'gpsbus2id1', 'gpsbus3id17', 'gpsbus4id18']
+<generator object senmanager_actmanager at 0x7f38f85b6b30>
+{'topic': 'algo_67142'}
+{'topic': 'algo_67430'}
+{'sensorType': 'light', 'locationId': 'bus3'}
+algo_67430_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus3'}
+data dict {'sensorType': 'light', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('6096c2cd0b7d263963259b13'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4025', 'topic': 'lightbus3id25'}
+['lightbus3id25']
+sending topic ['lightbus3id25']
+{'sensorType': 'gps', 'installedin': 'bus'}
+algo_67142_rep
+line 44 :  {'sensorType': 'gps', 'installedin': 'bus'}
+data dict {'sensorType': 'gps', 'installedin': 'bus'}
+req data
+l recefived {'_id': ObjectId('6096c2cd0b7d263963259afa'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4001', 'topic': 'gpsbus1id0'}
+l recefived {'_id': ObjectId('6096c2cd0b7d263963259afb'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4002', 'topic': 'gpsbus2id1'}
+l recefived {'_id': ObjectId('6096c2cd0b7d263963259b0b'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4017', 'topic': 'gpsbus3id17'}
+l recefived {'_id': ObjectId('6096c2cd0b7d263963259b0c'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4018', 'topic': 'gpsbus4id18'}
+['gpsbus1id0', 'gpsbus2id1', 'gpsbus3id17', 'gpsbus4id18']
+sending topic ['gpsbus1id0', 'gpsbus2id1', 'gpsbus3id17', 'gpsbus4id18']
+{'sensorType': 'temperature', 'locationId': 'bus3'}
+algo_67430_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus3'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('6096c2cd0b7d263963259b11'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4023', 'topic': 'temperaturebus3id23'}
+['temperaturebus3id23']
+sending topic ['temperaturebus3id23']
+{'topic': 'algo_72073'}
+{'locationId': 'Sector1'}
+algo_72073_rep
+line 44 :  {'locationId': 'Sector1'}
+data dict {'locationId': 'Sector1'}
+req data
+l recefived {'_id': ObjectId('6096c2c10b7d263963259af3'), 'sensorType': 'air', 'purpose': 'data-generator', 'location': {'lat': 'None', 'longitude': 'None'}, 'locationId': 'Sector1', 'address': 'None', 'sensor_ip': '127.0.0.24:8082', 'topic': 'airSector1id1'}
+l recefived {'_id': ObjectId('6096c2c10b7d263963259af4'), 'sensorType': 'audio', 'purpose': 'data-generator', 'location': {'lat': 'None', 'longitude': 'None'}, 'locationId': 'Sector1', 'address': 'None', 'sensor_ip': '127.0.0.25:8081', 'topic': 'audioSector1id2'}
+l recefived {'_id': ObjectId('6096c2c10b7d263963259af6'), 'sensorType': 'camera', 'purpose': 'data-generator', 'location': {'lat': 'None', 'longitude': 'None'}, 'locationId': 'Sector1', 'address': 'None', 'sensor_ip': '127.0.0.30:8080', 'topic': 'cameraSector1id4'}
+l recefived {'_id': ObjectId('6096c2c10b7d263963259af9'), 'sensorType': 'signal', 'purpose': 'controller', 'location': {'lat': 'None', 'longitude': 'None'}, 'locationId': 'Sector1', 'address': 'None', 'sensor_ip': '127.0.0.29:8082', 'topic': 'signalSector1id7'}
+['airSector1id1', 'audioSector1id2', 'cameraSector1id4', 'signalSector1id7']
+sending topic ['airSector1id1', 'audioSector1id2', 'cameraSector1id4', 'signalSector1id7']
+{'topic': 'algo_95998'}
+{'locationId': 'Sector2', 'sensorType': 'camera'}
+algo_95998_rep
+line 44 :  {'locationId': 'Sector2', 'sensorType': 'camera'}
+data dict {'locationId': 'Sector2', 'sensorType': 'camera'}
+req data
+l recefived {'_id': ObjectId('6096c2c10b7d263963259af2'), 'sensorType': 'camera', 'purpose': 'data-generator', 'location': {'lat': 'None', 'longitude': 'None'}, 'locationId': 'Sector2', 'address': 'None', 'sensor_ip': '127.0.0.30:8081', 'topic': 'cameraSector2id0'}
+['cameraSector2id0']
+sending topic ['cameraSector2id0']
+data dict {'sensorType': 'signal', 'locationId': 'Sector2'}
+req data
+l recefived {'_id': ObjectId('6096c2c10b7d263963259af5'), 'sensorType': 'signal', 'purpose': 'controller', 'location': {'lat': 'None', 'longitude': 'None'}, 'locationId': 'Sector2', 'address': 'None', 'sensor_ip': '127.0.0.29:8081', 'topic': 'signalSector2id3'}
+127.0.0.29:8081
+data dict {'sensorType': 'signal', 'locationId': 'Sector2'}
+req data
+l recefived {'_id': ObjectId('6096c2c10b7d263963259af5'), 'sensorType': 'signal', 'purpose': 'controller', 'location': {'lat': 'None', 'longitude': 'None'}, 'locationId': 'Sector2', 'address': 'None', 'sensor_ip': '127.0.0.29:8081', 'topic': 'signalSector2id3'}
+127.0.0.29:8081
+data dict {'sensorType': 'signal', 'locationId': 'Sector2'}
+req data
+l recefived {'_id': ObjectId('6096c2c10b7d263963259af5'), 'sensorType': 'signal', 'purpose': 'controller', 'location': {'lat': 'None', 'longitude': 'None'}, 'locationId': 'Sector2', 'address': 'None', 'sensor_ip': '127.0.0.29:8081', 'topic': 'signalSector2id3'}
+127.0.0.29:8081
+data dict {'sensorType': 'signal', 'locationId': 'Sector2'}
+req data
+l recefived {'_id': ObjectId('6096c2c10b7d263963259af5'), 'sensorType': 'signal', 'purpose': 'controller', 'location': {'lat': 'None', 'longitude': 'None'}, 'locationId': 'Sector2', 'address': 'None', 'sensor_ip': '127.0.0.29:8081', 'topic': 'signalSector2id3'}
+127.0.0.29:8081
+data dict {'sensorType': 'signal', 'locationId': 'Sector2'}
+req data
+l recefived {'_id': ObjectId('6096c2c10b7d263963259af5'), 'sensorType': 'signal', 'purpose': 'controller', 'location': {'lat': 'None', 'longitude': 'None'}, 'locationId': 'Sector2', 'address': 'None', 'sensor_ip': '127.0.0.29:8081', 'topic': 'signalSector2id3'}
+127.0.0.29:8081
+data dict {'sensorType': 'signal', 'locationId': 'Sector2'}
+req data
+l recefived {'_id': ObjectId('6096c2c10b7d263963259af5'), 'sensorType': 'signal', 'purpose': 'controller', 'location': {'lat': 'None', 'longitude': 'None'}, 'locationId': 'Sector2', 'address': 'None', 'sensor_ip': '127.0.0.29:8081', 'topic': 'signalSector2id3'}
+127.0.0.29:8081
+{'topic': 'algo_93574'}
+{'topic': 'algo_20872'}
+{'sensorType': 'gps', 'installedin': 'bus'}
+algo_20872_rep
+line 44 :  {'sensorType': 'gps', 'installedin': 'bus'}
+data dict {'sensorType': 'gps', 'installedin': 'bus'}
+req data
+{'sensorType': 'light', 'locationId': 'bus3'}
+algo_93574_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus3'}
+data dict {'sensorType': 'light', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('6096c2cd0b7d263963259afa'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4001', 'topic': 'gpsbus1id0'}
+l recefived {'_id': ObjectId('6096c2cd0b7d263963259afb'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4002', 'topic': 'gpsbus2id1'}
+l recefived {'_id': ObjectId('6096c2cd0b7d263963259b0b'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4017', 'topic': 'gpsbus3id17'}
+l recefived {'_id': ObjectId('6096c2cd0b7d263963259b0c'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4018', 'topic': 'gpsbus4id18'}
+['gpsbus1id0', 'gpsbus2id1', 'gpsbus3id17', 'gpsbus4id18']
+sending topic ['gpsbus1id0', 'gpsbus2id1', 'gpsbus3id17', 'gpsbus4id18']
+l recefived {'_id': ObjectId('6096c2cd0b7d263963259b13'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4025', 'topic': 'lightbus3id25'}
+['lightbus3id25']
+sending topic ['lightbus3id25']
+{'sensorType': 'temperature', 'locationId': 'bus3'}
+algo_93574_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus3'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('6096c2cd0b7d263963259b11'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4023', 'topic': 'temperaturebus3id23'}
+['temperaturebus3id23']
+sending topic ['temperaturebus3id23']
+<generator object senmanager_actmanager at 0x7fc15afaad60>
+{'topic': 'algo_73013'}
+{'sensorType': 'gps', 'locationId': 'bus1'}
+algo_73013_rep
+line 44 :  {'sensorType': 'gps', 'locationId': 'bus1'}
+data dict {'sensorType': 'gps', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1bb'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4001', 'topic': 'gpsbus1id0'}
+['gpsbus1id0']
+sending topic ['gpsbus1id0']
+{'sensorType': 'biometric', 'locationId': 'bus1'}
+algo_73013_rep
+line 44 :  {'sensorType': 'biometric', 'locationId': 'bus1'}
+data dict {'sensorType': 'biometric', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1c0'), 'sensorType': 'biometric', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4006', 'topic': 'biometricbus1id5'}
+['biometricbus1id5']
+sending topic ['biometricbus1id5']
+{'topic': 'algo_82877'}
+{'topic': 'algo_32540'}
+{'topic': 'algo_21063'}
+{'topic': 'algo_9510'}
+{'sensorType': 'light', 'locationId': 'bus3'}
+algo_21063_rep
+line 44 :  {'sensorType': 'light', 'locationId': 'bus3'}
+data dict {'sensorType': 'light', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d4'), 'sensorType': 'light', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4025', 'topic': 'lightbus3id25'}
+['lightbus3id25']
+sending topic ['lightbus3id25']
+{'sensorType': 'gps', 'installedin': 'bus'}
+algo_82877_rep
+line 44 :  {'sensorType': 'gps', 'installedin': 'bus'}
+data dict {'sensorType': 'gps', 'installedin': 'bus'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1bb'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4001', 'topic': 'gpsbus1id0'}
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1bc'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4002', 'topic': 'gpsbus2id1'}
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1cc'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4017', 'topic': 'gpsbus3id17'}
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1cd'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4018', 'topic': 'gpsbus4id18'}
+['gpsbus1id0', 'gpsbus2id1', 'gpsbus3id17', 'gpsbus4id18']
+sending topic ['gpsbus1id0', 'gpsbus2id1', 'gpsbus3id17', 'gpsbus4id18']
+{'locationId': 'Sector2', 'sensorType': 'camera'}
+algo_32540_rep
+line 44 :  {'locationId': 'Sector2', 'sensorType': 'camera'}
+data dict {'locationId': 'Sector2', 'sensorType': 'camera'}
+req data
+[]
+{'locationId': 'Sector1'}
+algo_9510_rep
+line 44 :  {'locationId': 'Sector1'}
+data dict {'locationId': 'Sector1'}
+req data
+[]
+{'sensorType': 'temperature', 'locationId': 'bus3'}
+algo_21063_rep
+line 44 :  {'sensorType': 'temperature', 'locationId': 'bus3'}
+data dict {'sensorType': 'temperature', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d2'), 'sensorType': 'temperature', 'purpose': 'data-generator', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4023', 'topic': 'temperaturebus3id23'}
+['temperaturebus3id23']
+sending topic ['temperaturebus3id23']
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'buzzer', 'locationId': 'bus2'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1cb'), 'sensorType': 'buzzer', 'purpose': 'controller', 'locationId': 'bus2', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4016', 'topic': 'buzzerbus2id16'}
+127.0.0.27:4016
+data dict {'sensorType': 'buzzer', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1ce'), 'sensorType': 'buzzer', 'purpose': 'controller', 'locationId': 'bus3', 'instaledin': 'bus', 'sensor_ip': '127.0.0.27:4019', 'topic': 'buzzerbus3id19'}
+127.0.0.27:4019
+data dict {'sensorType': 'buzzer', 'locationId': 'bus4'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1cf'), 'sensorType': 'buzzer', 'purpose': 'controller', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4020', 'topic': 'buzzerbus4id20'}
+127.0.0.27:4020
+data dict {'sensorType': 'buzzer', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1ce'), 'sensorType': 'buzzer', 'purpose': 'controller', 'locationId': 'bus3', 'instaledin': 'bus', 'sensor_ip': '127.0.0.27:4019', 'topic': 'buzzerbus3id19'}
+127.0.0.27:4019
+data dict {'sensorType': 'buzzer', 'locationId': 'bus4'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1cf'), 'sensorType': 'buzzer', 'purpose': 'controller', 'locationId': 'bus4', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4020', 'topic': 'buzzerbus4id20'}
+127.0.0.27:4020
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+data dict {'sensorType': 'light_con', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d8'), 'sensorType': 'light_con', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4029', 'topic': 'light_conbus3id29'}
+127.0.0.27:4029
+data dict {'sensorType': 'ac', 'locationId': 'bus3'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1d6'), 'sensorType': 'ac', 'purpose': 'controller', 'locationId': 'bus3', 'installedin': 'bus', 'sensor_ip': '127.0.0.27:4027', 'topic': 'acbus3id27'}
+127.0.0.27:4027
+{'topic': 'algo_12402'}
+{'topic': 'algo_50191'}
+{'sensorType': 'gps', 'locationId': 'bus1'}
+algo_12402_rep
+line 44 :  {'sensorType': 'gps', 'locationId': 'bus1'}
+data dict {'sensorType': 'gps', 'locationId': 'bus1'}
+req data
+{'locationId': 'Sector1'}
+algo_50191_rep
+line 44 :  {'locationId': 'Sector1'}
+data dict {'locationId': 'Sector1'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1bb'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4001', 'topic': 'gpsbus1id0'}
+['gpsbus1id0']
+sending topic ['gpsbus1id0']
+[]
+{'sensorType': 'biometric', 'locationId': 'bus1'}
+algo_12402_rep
+line 44 :  {'sensorType': 'biometric', 'locationId': 'bus1'}
+data dict {'sensorType': 'biometric', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60976fbd84aba155bac6f1c0'), 'sensorType': 'biometric', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4006', 'topic': 'biometricbus1id5'}
+['biometricbus1id5']
+sending topic ['biometricbus1id5']
+<generator object senmanager_actmanager at 0x7f3740153ac0>
+<generator object senmanager_actmanager at 0x7f38293e7660>
+{'topic': 'algo_8902'}
+{'topic': 'algo_71940'}
+{'sensorType': 'gps', 'locationId': 'bus1'}
+algo_71940_rep
+line 44 :  {'sensorType': 'gps', 'locationId': 'bus1'}
+data dict {'sensorType': 'gps', 'locationId': 'bus1'}
+req data
+[]
+{'sensorType': 'gps', 'locationId': 'bus1'}
+algo_8902_rep
+line 44 :  {'sensorType': 'gps', 'locationId': 'bus1'}
+data dict {'sensorType': 'gps', 'locationId': 'bus1'}
+req data
+[]
+{'sensorType': 'biometric', 'locationId': 'bus1'}
+algo_8902_rep
+line 44 :  {'sensorType': 'biometric', 'locationId': 'bus1'}
+data dict {'sensorType': 'biometric', 'locationId': 'bus1'}
+req data
+[]
+{'sensorType': 'biometric', 'locationId': 'bus1'}
+algo_71940_rep
+line 44 :  {'sensorType': 'biometric', 'locationId': 'bus1'}
+data dict {'sensorType': 'biometric', 'locationId': 'bus1'}
+req data
+[]
+{'topic': 'algo_74552'}
+{'sensorType': 'gps', 'locationId': 'bus1'}
+algo_74552_rep
+line 44 :  {'sensorType': 'gps', 'locationId': 'bus1'}
+data dict {'sensorType': 'gps', 'locationId': 'bus1'}
+req data
+[]
+{'sensorType': 'biometric', 'locationId': 'bus1'}
+algo_74552_rep
+line 44 :  {'sensorType': 'biometric', 'locationId': 'bus1'}
+data dict {'sensorType': 'biometric', 'locationId': 'bus1'}
+req data
+[]
+<generator object senmanager_actmanager at 0x7f870726a6d0>
+{'topic': 'algo_95857'}
+{'sensorType': 'gps', 'locationId': 'bus1'}
+algo_95857_rep
+line 44 :  {'sensorType': 'gps', 'locationId': 'bus1'}
+data dict {'sensorType': 'gps', 'locationId': 'bus1'}
+req data
+[]
+{'sensorType': 'biometric', 'locationId': 'bus1'}
+algo_95857_rep
+line 44 :  {'sensorType': 'biometric', 'locationId': 'bus1'}
+data dict {'sensorType': 'biometric', 'locationId': 'bus1'}
+req data
+[]
+{'topic': 'algo_91590'}
+{'sensorType': 'gps', 'locationId': 'bus1'}
+algo_91590_rep
+line 44 :  {'sensorType': 'gps', 'locationId': 'bus1'}
+data dict {'sensorType': 'gps', 'locationId': 'bus1'}
+req data
+[]
+{'sensorType': 'biometric', 'locationId': 'bus1'}
+algo_91590_rep
+line 44 :  {'sensorType': 'biometric', 'locationId': 'bus1'}
+data dict {'sensorType': 'biometric', 'locationId': 'bus1'}
+req data
+[]
+{'topic': 'algo_35867'}
+{'sensorType': 'gps', 'locationId': 'bus1'}
+algo_35867_rep
+line 44 :  {'sensorType': 'gps', 'locationId': 'bus1'}
+data dict {'sensorType': 'gps', 'locationId': 'bus1'}
+req data
+[]
+{'sensorType': 'biometric', 'locationId': 'bus1'}
+algo_35867_rep
+line 44 :  {'sensorType': 'biometric', 'locationId': 'bus1'}
+data dict {'sensorType': 'biometric', 'locationId': 'bus1'}
+req data
+[]
+{'topic': 'algo_10289'}
+{'sensorType': 'gps', 'locationId': 'bus1'}
+algo_10289_rep
+line 44 :  {'sensorType': 'gps', 'locationId': 'bus1'}
+data dict {'sensorType': 'gps', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('6097835693044b4aee4c086e'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4001', 'topic': 'gpsbus1id0'}
+['gpsbus1id0']
+sending topic ['gpsbus1id0']
+{'sensorType': 'biometric', 'locationId': 'bus1'}
+algo_10289_rep
+line 44 :  {'sensorType': 'biometric', 'locationId': 'bus1'}
+data dict {'sensorType': 'biometric', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('6097835693044b4aee4c0873'), 'sensorType': 'biometric', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4006', 'topic': 'biometricbus1id5'}
+['biometricbus1id5']
+sending topic ['biometricbus1id5']
+{'topic': 'algo_3025'}
+{'sensorType': 'gps', 'locationId': 'bus1'}
+algo_3025_rep
+line 44 :  {'sensorType': 'gps', 'locationId': 'bus1'}
+data dict {'sensorType': 'gps', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('6097835693044b4aee4c086e'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4001', 'topic': 'gpsbus1id0'}
+['gpsbus1id0']
+sending topic ['gpsbus1id0']
+{'sensorType': 'biometric', 'locationId': 'bus1'}
+algo_3025_rep
+line 44 :  {'sensorType': 'biometric', 'locationId': 'bus1'}
+data dict {'sensorType': 'biometric', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('6097835693044b4aee4c0873'), 'sensorType': 'biometric', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4006', 'topic': 'biometricbus1id5'}
+['biometricbus1id5']
+sending topic ['biometricbus1id5']
+<generator object senmanager_actmanager at 0x7f1a69eeaa50>
+{'topic': 'algo_23071'}
+{'sensorType': 'gps', 'locationId': 'bus1'}
+algo_23071_rep
+line 44 :  {'sensorType': 'gps', 'locationId': 'bus1'}
+data dict {'sensorType': 'gps', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60978fbf16f47879c547ba55'), 'sensorType': 'gps', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4001', 'topic': 'gpsbus1id0'}
+['gpsbus1id0']
+sending topic ['gpsbus1id0']
+{'sensorType': 'biometric', 'locationId': 'bus1'}
+algo_23071_rep
+line 44 :  {'sensorType': 'biometric', 'locationId': 'bus1'}
+data dict {'sensorType': 'biometric', 'locationId': 'bus1'}
+req data
+l recefived {'_id': ObjectId('60978fbf16f47879c547ba5a'), 'sensorType': 'biometric', 'purpose': 'data-generator', 'locationId': 'bus1', 'installedin': 'bus', 'sensor_ip': '127.0.0.30:4006', 'topic': 'biometricbus1id5'}
+['biometricbus1id5']
+sending topic ['biometricbus1id5']

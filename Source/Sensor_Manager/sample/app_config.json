@@ -1,0 +1,38 @@
+{
+    "ApplicationName":"sample",
+    "Dependencies":[],
+    "Algorithm":[
+        {
+            "AlgorithmName":"algo1",
+            "sensors":["gps","biometric"],
+            "sensor_num":[1,1],
+            "action":[]
+        },
+        {
+            "AlgorithmName":"algo2",
+            "sensors":["light","temperature"],
+            "sensor_num":["all","all"],
+            "action":[]
+        },
+        {
+            "AlgorithmName":"algo3",
+            "sensors":["gps"],
+            "sensor_num":["all"],
+            "action":[]
+        },
+        {
+            "AlgorithmName":"algo4",
+            "sensors":["gps"],
+            "sensor_num":["all"],
+            "action":["callback"]
+        },
+        {
+            "AlgorithmName":"triggered",
+            "sensors":[],
+            "sensor_num":[],
+            "action":["email"]
+        }
+        
+    ]
+    
+}

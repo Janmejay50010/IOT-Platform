@@ -1,0 +1,33 @@
+{
+    "Server1":
+        {
+            "Name" : "Server1",
+            "Status": "running",
+            "IpAddr": "34.232.70.58",
+            "InstanceId" : "i-06fdf6dfc9c5f979b",
+            "ImageId" : "ami-0742b4e673072066f",
+            "PlatformService" : false,
+            "Service": "None",
+            "Region" : "India",
+            "Metrics" : {
+                            "CPUUtilization": 0
+                        },
+            "GPU": false
+        },
+
+    "Server2":
+        {   
+            "Name" : "Server2",
+            "Status": "running",
+            "IpAddr": "35.175.188.72",
+            "InstanceId" : "i-0bf01319c26a08850",
+            "ImageId" : "ami-0742b4e673072066f",
+            "PlatformService" : true,
+            "Service": "Kafka",
+            "Region" : "India",
+            "Metrics" : {
+                            "CPUUtilization": 0
+                        },
+            "GPU": true
+        }
+}

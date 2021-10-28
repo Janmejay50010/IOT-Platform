@@ -1,0 +1,71 @@
+{
+    
+    "Sensor1":{
+        "sensorName":"camera1",
+        "sensorType":"camera",
+        "sensorId":1,
+        "location":{
+            "lat":"None",
+            "longitude":"None"
+        },
+        "locationId":"Sector2",
+        "address":"None",
+        "input_type":"camera_feed",
+        "output_type":"int",
+        "data_size":"4",
+        "data_rate":"None",
+        "sensor_ip": "127.0.0.26:8080"     
+    },
+
+    "Sensor2":{
+        "sensorName":1,
+        "sensorType":"air",
+        "sensorId":"2",
+        "location":{
+            "lat":"None",
+            "longitude":"None"
+        },
+        "locationId":"Sector1",
+        "address":"None",
+        "input_type":"air_quality",
+        "output_type":"int",
+        "data_size":"4",
+        "data_rate":"None",
+        "sensor_ip":  "127.0.0.24:8082"       
+
+    },
+    "Sensor3":{
+        "sensorName":"audio1",
+        "sensorType":"audio",
+        "sensorId":"3",
+        "location":{
+            "lat":"None",
+            "longitude":"None"
+        },
+        "locationId":"Sector1",
+        "address":"None",
+        "input_type":"intensity",
+        "output_type":"string",
+        "data_size":"5",
+        "data_rate":"None",
+        "sensor_ip":  "127.0.0.25:8081"       
+
+    },
+    "Sensor4":{
+        "sensorName":"temp1",
+        "sensorType":"temperature",
+        "sensorId":"4",
+        "location":{
+            "lat":"None",
+            "longitude":"None"
+        },
+        "locationId":"None",
+        "address":"None",
+        "input_type":"temperature",
+        "output_type":"int",
+        "data_size":"5",
+        "data_rate":"None",
+        "sensor_ip": "None"    
+
+    }
+}

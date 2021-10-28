@@ -1,0 +1,28 @@
+{
+    "ApplicationName":"Test",
+    "Dependencies":["time","pandas"],
+    "Algorithm":[
+        {
+            "AlgorithmName":"pollution",
+            "Schedule":
+                {
+                    "job_type":"regular",
+                    "start_time":"19:38",
+                    "end_time":"13:00",
+                    "duration":"10"
+                }
+
+        },
+        {
+            "AlgorithmName":"Algo_Test2",
+            "Schedule":
+                {
+                    "job_type":"once",
+                    "start_time":"12:00",
+                    "end_time":"13:00",
+                    "duration":"10"
+                }
+        }
+    ]
+    
+}

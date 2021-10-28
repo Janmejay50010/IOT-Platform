@@ -1,0 +1,19 @@
+{
+    "ApplicationName":"app2",
+    "Dependencies":[],
+    "Algorithm":[
+        {
+            "AlgorithmName":"pollution",
+            "sensors":["air","audio"],
+            "sensor_num":[1,1],
+            "action":[]
+        },
+        {
+            "AlgorithmName":"congestion",
+            "sensors":["camera"],
+            "sensor_num":[1],
+            "action":[]
+        }
+    ]
+    
+}
